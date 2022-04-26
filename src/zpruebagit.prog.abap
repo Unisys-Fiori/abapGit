@@ -7,4 +7,4 @@ REPORT ZPRUEBAGIT.
 
 write 'Holamundo'.
 
-write 'Adios'.
+write 'AdiosPortales'.
